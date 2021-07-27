@@ -1,4 +1,4 @@
-var myArray = ['string',100,false];//literal array
+var myArray = ['book',100,false];//literal array
 var myArray3 = [];//literal array
 
 //var myArray1 = new Array('string',100,false);
