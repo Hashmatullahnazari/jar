@@ -1,5 +1,5 @@
-var myArray = ['book',100,false, 1];//literal array
-var myArray3 = [];//literal array
+//var myArray = ['book',100,false, 1];//literal array
+//var myArray3 = [];//literal array
 
 //var myArray1 = new Array('string',100,false);
 //var myArray2 = new Array();
@@ -63,4 +63,35 @@ var myArray3 = [];//literal array
 //var response = (message == randomIndex) ? 'correct':'wrong it was' + randomIndex;
 //alert(response);
 
-var animals = ['cat', 'dog', 'rabbit', 'bird', 'fish','parana','cabbage'];
+//var animals = ['cat', 'dog', 'rabbit', 'bird', 'fish'];
+//
+//animals.push('sheep');
+//var remove1 = animals.pop();
+//animals.shift();
+//animals.unshift('horse');
+//
+//animals.splice(2,1)
+//animals.reverse();
+//animals.sort();
+//console.log(remove1);
+//console.log(animals);
+
+
+
+
+var animals = ['cat', 'dog', 'rabbit', 'bird', 'fish', 'zebra'];
+animals[20] ='horse';
+animals.fill('mouse',6 ,(animals.length-1));
+//animals.sort();
+//animals.reverse();
+//console.log(animals);
+
+
+
+
+
+
+
+
+
+
