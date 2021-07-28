@@ -79,12 +79,20 @@
 
 
 
-var animals = ['cat', 'dog', 'rabbit', 'bird', 'fish', 'zebra'];
-animals[20] ='horse';
-animals.fill('mouse',6 ,(animals.length-1));
+//var animals = ['cat', 'dog', 'rabbit', 'bird', 'fish', 'zebra'];
+//starVal = (animals.length-1);
+//console.log(starVal);
+//animals[20] ='horse';
+//animals.fill('mouse',6,starVal,(animals.length-1));
+//console.log(animals);
 //animals.sort();
 //animals.reverse();
 //console.log(animals);
+var newHolders = ['cat', 'dog', 'rabbit', 'bird'];
+newHolders[10] ='horse';
+newHolders.fill('fish', 3, 10);
+newHolders.reverse();
+
 
 
 

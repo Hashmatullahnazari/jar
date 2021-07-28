@@ -39,4 +39,4 @@
 
 //////////////
 
-var task = ['take out garbage','read a book','write javascript','go to work','sleep'];
+//var task = ['take out garbage','read a book','write javascript','go to work','sleep'];
