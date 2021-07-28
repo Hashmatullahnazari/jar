@@ -63,4 +63,4 @@ var myArray3 = [];//literal array
 //var response = (message == randomIndex) ? 'correct':'wrong it was' + randomIndex;
 //alert(response);
 
-var animals = ['cat', 'dog', 'rabbit', 'bird', 'fish','parana'];
+var animals = ['cat', 'dog', 'rabbit', 'bird', 'fish','parana','cabbage'];
