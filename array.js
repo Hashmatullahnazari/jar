@@ -88,10 +88,31 @@
 //animals.sort();
 //animals.reverse();
 //console.log(animals);
-var newHolders = ['cat', 'dog', 'rabbit', 'bird'];
-newHolders[10] ='horse';
-newHolders.fill('fish', 3, 10);
-newHolders.reverse();
+//var newHolders = ['cat', 'dog', 'rabbit', 'bird'];
+//newHolders[10] ='horse';
+//newHolders.fill('fish', 3, 10);
+//newHolders.reverse();
+//newHolders.pop();
+//newHolders.push('sheep');
+
+
+
+//var newHolder = ['cat', 'dog', 'rabbit', 'bird'];
+//var posIndex = newHolder.indexOf('cat');
+//var q = prompt('what did you want to look for');
+//
+//var p = newHolder.indexOf(q);
+//
+//var message = p > -1 ? 'found':'Not There'
+//console.log(message);
+
+
+var arr = [3,4,5,77,33,22,,4,1,55,2,'cat','dog'];
+arr.sort();
+
+
+
+
 
 
 
