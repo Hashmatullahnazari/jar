@@ -107,9 +107,23 @@
 //console.log(message);
 
 
-var arr = [3,4,5,77,33,22,,4,1,55,2,'cat','dog'];
-arr.sort();
 
+
+//var arr = [['cat','dog','fish'],[4,2,5,6,6,4],'hello',50];
+
+//var ourFriends = [['Mike','John','Larry'],[1980,1990,2016]];
+//
+//var q = prompt('which friend?');
+//console.log('You met john ' + ourFriends[0][q] + 'in' + ' year when you met ' + ourFriends[1][q]);
+
+var arr = ['cat','dog','fish',4,2,5,6,6,4];
+
+for(x = 0; x <= arr.length; x = x + 1)
+    {
+//        console.log(arr[x]);
+//        console.log(arr);
+        console.log(x);
+    }
 
 
 
