@@ -117,13 +117,35 @@
 //console.log('You met john ' + ourFriends[0][q] + 'in' + ' year when you met ' + ourFriends[1][q]);
 
 var arr = ['cat','dog','fish',4,2,5,6,6,4];
+var obj = {color:'red',make:'ford',doors:5,model:'mustang'};
 
-for(x = 0; x <= arr.length; x = x + 1)
-    {
-//        console.log(arr[x]);
-//        console.log(arr);
-        console.log(x);
-    }
+console.log(obj);
+
+
+//for(var x in arr){
+//    console.log(x); index value
+//    console.log(arr[x]); the item value
+//}
+
+//i = 0;
+//while(i<arr.length)
+//     {
+         
+
+        //output.innerHTML = arr;
+         
+//console.log("<br>The number is " + i);
+         //console.log(arr[i]);the item value
+         //console.log(i);index value
+//  i = i + 1;
+//}
+
+//for(x = 0; x <= arr.length; x = x + 1)
+//    {
+//        //console.log(arr[x]);the item value
+//      console.log(arr); index value
+//        //console.log(x);index value
+//    }
 
 
 
