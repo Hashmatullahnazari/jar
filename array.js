@@ -116,10 +116,13 @@
 //var q = prompt('which friend?');
 //console.log('You met john ' + ourFriends[0][q] + 'in' + ' year when you met ' + ourFriends[1][q]);
 
-var arr = ['cat','dog','fish',4,2,5,6,6,4];
-var obj = {color:'red',make:'ford',doors:5,model:'mustang'};
-
-console.log(obj);
+//var arr = ['cat','dog','fish',4,2,5,6,6,4];
+//var car = {color:'red',make:'ford',doors:5,model:'mustang'};
+//car.color = 'blue';
+//var prop =prompt('what did you want to know about the car');
+//console.log(car[prop]);
+//console.log(car);
+//console.log(car[prop]);
 
 
 //for(var x in arr){
@@ -151,10 +154,14 @@ console.log(obj);
 
 
 
-
-
-
-
+var car = {color:'red',make:'ford',doors:5,model:'mustang'};
+var yellow = car.length;
+for(x = 0; x <= yellow; x = x + 1)
+   {
+    console.log(start(x)); //the item value
+    console.log(start); //index value
+    console.log(x);  //index value
+    }
 
 
 
