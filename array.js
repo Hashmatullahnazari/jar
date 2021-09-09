@@ -154,16 +154,47 @@
 
 
 
-var car = {color:'red',make:'ford',doors:5,model:'mustang'};
-var yellow = car.length;
-for(x = 0; x <= yellow; x = x + 1)
-   {
-    console.log(start(x)); //the item value
-    console.log(start); //index value
-    console.log(x);  //index value
-    }
+//var car = {color:'red',make:'ford',doors:5,model:'mustang'};
+//var yellow = car.length;
+//for(var property in car)
+//   {
+//   console.log(property);  //index value
+//    //console.log(property + " " +car[property]);  //index value
+//    }
+
+
+//var bob = {
+//    age: 30,
+//    hair: 'brown',
+//    eyes: 'blue',
+//    work: 'developer'
+//};
+//var friends = {
+//    friend1: bob,
+//    friend2: {
+//        age: 30,
+//        hair: 'black'
+//    }
+//};
+//
+//
+//
+//var friends1 = [bob,{age: 30, hair: 'black'}];
+//document.getElementById('output').innerHTML = '<h1>Welcome to my page</h1>';
+
+
+//var output = document.getElementById('output');
+//output.innerHTML = 'hello world';
 
 
 
+//var output = document.getElementById('output');
+//var val = document.getElementById('val');
+//val.value = output.innerHTML;
 
+
+
+//var userName = prompt('What is you name');
+//var output = document.getElementById('output');
+//output.innerText = 'welcome to my page ' + userName;
 
