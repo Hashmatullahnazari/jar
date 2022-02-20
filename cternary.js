@@ -18,12 +18,12 @@
 //output.innerHTML = userNames.indexOf(userInput) > -1 ? (alert("Hello"),'welcome'):('denied');
 //output.innerHTML = output.innerHTML + ',' + userInput;
 
-var userNames = ["Banana", "Orange", "Apple", "Mango"];
-//var userInput = prompt('what is your name?');
-userInput;
-var output = document.getElementById('output');
-output.innerHTML = userNames.indexOf(userInput) > -1 ? (alert("Hello"),'welcome'):('denied');
-output.innerHTML = output.innerHTML + ',' + userInput;
+//var userNames = ["Banana", "Orange", "Apple", "Mango"];
+////var userInput = prompt('what is your name?');
+//userInput;
+//var output = document.getElementById('output');
+//output.innerHTML = userNames.indexOf(userInput) > -1 ? (alert("Hello"),'welcome'):('denied');
+//output.innerHTML = output.innerHTML + ',' + userInput;
 
 //var login = true;
 //var outputHolder = '';
@@ -31,3 +31,5 @@ output.innerHTML = output.innerHTML + ',' + userInput;
 //output.innerHTML = userOkay;
 
 //login ? alert('okay'):alert('denied');
+
+
