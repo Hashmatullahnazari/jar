@@ -25,7 +25,7 @@
 //output.innerHTML = userNames.indexOf(userInput) > -1 ? (alert("Hello"),'welcome'):('denied');
 //output.innerHTML = output.innerHTML + ',' + userInput;
 
-//var login = true;
+var login = true;
 //var outputHolder = '';
 //var userOkay = login == true ? outputHolder = 'true': outputHolder = 'false';
 //output.innerHTML = userOkay;
